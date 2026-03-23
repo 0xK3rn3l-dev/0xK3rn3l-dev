@@ -6,14 +6,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dxcnpyNDgzbWxweTRmdHZ6anhnZzM2Mzd3eDNxOGZxOXJzaXhvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxCIrTSEDYZgwuMaxm/giphy.gif" width="500" alt="Code 404 GIF"/>
 </p>
 
-<h3 align="center">🔗 Let's connect</h3>
-
-<p align="center">
-  <a href="https://github.com/0xK3rn3l-dev" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/github/FFFFFF"/>
-  </a>
-</p>
-
 <h2 align="left">🔍 About Me</h2>
 
 ```yaml
@@ -41,6 +33,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+</p>
+
+<h3 align="center">🔗 Let's connect</h3>
+
+<p align="center">
+  <a href="https://github.com/0xK3rn3l-dev" target="_blank">
+    <img height="40" src="https://cdn.simpleicons.org/github/FFFFFF"/>
+  </a>
 </p>
 
 <!--
