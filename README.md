@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello%20World!♟️&fontColor=FFFFFF&fontAlignY=70&color=gradient&gradientColors=8A2BE2,4B0082&animation=twinkle"/>
 </p>
 
+<h3 align="center">🔗 Let's connect</h3>
+
 <p align="center">
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/0xK3rn3l-dev" target="_blank">
