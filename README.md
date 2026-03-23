@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dxcnpyNDgzbWxweTRmdHZ6anhnZzM2Mzd3eDNxOGZxOXJzaXhvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxCIrTSEDYZgwuMaxm/giphy.gif" width="500" alt="Code 404 GIF"/>
 </p>
----
+
 <h3 align="center">🔗 Let's connect</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
     <img height="40" src="https://cdn.simpleicons.org/github/FFFFFF"/>
   </a>
 </p>
----
+
 <h2 align="center">🔍 About Me</h2>
 
 ```yaml
