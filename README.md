@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://t.me/K3rn3l_Dev" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/telegram/8A2BE2"/>
+    <img height="40" src="https://cdn.simpleicons.org/telegram/"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/0xK3rn3l-dev" target="_blank">
