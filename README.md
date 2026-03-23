@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h2 align="center">🔍 About Me</h2>
+<h2 align="left">🔍 About Me</h2>
 
 ```yaml
 │  >> BOOTING K3RN3L.DEV
