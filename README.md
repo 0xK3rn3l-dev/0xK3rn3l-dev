@@ -9,6 +9,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmk5NzIzanc3bzRhd3U2cjJhYnB6anNiYnp2ZDI3dXAydzhleWVyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" width="400" alt="Code 404 GIF"/>
+</p>
+
 <!--
 **0xK3rn3l-dev/0xK3rn3l-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
