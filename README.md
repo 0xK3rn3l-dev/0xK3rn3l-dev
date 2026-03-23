@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/K3rn3l_Dev" target="_blank" rel="noopener noreferrer">
-    <img height="40" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram"/>
+  <a href="https://t.me/K3rn3l_Dev" target="_blank">
+    <img height="40" src="https://cdn.simpleicons.org/telegram/8A2BE2"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/0xK3rn3l-dev" target="_blank" rel="noopener noreferrer">
-    <img height="40" src="https://cdn.simpleicons.org/github/181717" alt="GitHub"/>
+  <a href="https://github.com/0xK3rn3l-dev" target="_blank">
+    <img height="40" src="https://cdn.simpleicons.org/github/FFFFFF"/>
   </a>
 </p>
 
