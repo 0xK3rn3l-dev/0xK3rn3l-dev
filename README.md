@@ -2,6 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=K3rn3l%20Dev⚔️&fontColor=FFFFFF&fontAlignY=70&color=gradient&gradientColors=8A2BE2,4B0082&animation=twinkle"/>
 </p>
 
+```yaml
+│  >> BOOTING K3RN3L.DEV
+│  >> STATUS: ONLINE 🟢
+│  >> ID: 0xK3rn3l
+│  >> ROLE: Kernel Explorer | Web Developer
+│  >> DOMAIN: Web Dev | Low-Level Programming | Security Research
+│  >> ARSENAL: [Python, JavaScript, C++]
+│  >> REALM: Linux 🐧 | 🪟 Windows
+│  >> CONNECTION: Encrypted 🔒
+```
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dxcnpyNDgzbWxweTRmdHZ6anhnZzM2Mzd3eDNxOGZxOXJzaXhvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxCIrTSEDYZgwuMaxm/giphy.gif" width="500" alt="Code 404 GIF"/>
 </p>
