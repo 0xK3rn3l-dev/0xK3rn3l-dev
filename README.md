@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello+World&animation=fadeIn&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also rotated.&descAlign=60&descAlignY=44"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=8A2BE2&height=200&text=Hello+World&animation=fadeIn"/>
 </p>
 
 <!--
